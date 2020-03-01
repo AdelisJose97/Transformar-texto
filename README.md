@@ -1,5 +1,5 @@
 # project_parrafos
-Este proyecto esta creado para poder transformar parrafos a mayusculas, minusculas, capitalizado (cada palabra comienza en mayuscula), capitalizar despues de punto etc.
+Este proyecto esta creado para poder transformar parrafos a mayusculas, minusculas, capitalizado (cada palabra comienza en mayuscula), capitalizar despues de punto etc. a travez de Vue.
 
 ## Project setup
 ```
